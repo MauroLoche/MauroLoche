@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **GitHub** and **Unreal Engine 4**
 
-- 📫 How to reach me: **loche3@gmail.com**
+- 📫 Reach me at **loche3@gmail.com**
 
 
 <h3 align="center">Connect with me:</h3>
