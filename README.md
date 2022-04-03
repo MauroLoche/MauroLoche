@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mauro Loche</h1>
 <h3 align="center">A university student, keenly focused on communication studies</h3>
 
-
+<p align="center">
 
 
 - ⚡ VR **Enthusiast**
@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **GitHub** and **Unreal Engine 4**
 
 - 📫 How to reach me: **loche3@gmail.com**
+  </p>
 
 <h3 align="center">Connect with me:</h3>
 
