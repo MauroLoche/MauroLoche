@@ -1,8 +1,13 @@
-<h1 align="center">Hi 🤖, I'm Mauro Loche</h1>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (**loche3@gmail.com**)
+<h1 align="center">Hi, I'm Mauro Loche</h1>
+<h3 align="center">A university student, keenly focused on communication studies</h3>
+
+
+
+    - ⚡ VR **Enthusiast**
+
+    - 🌱 I’m currently learning **GitHub** and **Unreal Engine 4**
+
+    - 📫 How to reach me **loche3@gmail.com**
 
 <!---
 MauroLoche/MauroLoche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
